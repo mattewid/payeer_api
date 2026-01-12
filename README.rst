@@ -1,5 +1,5 @@
 ================
-payeer_api
+payeer_api (⚠️ Payeer has become a scam.)
 ================
 
 payeer_api - Реализация клиента для Payeer API.
